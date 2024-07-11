@@ -1,0 +1,14 @@
+micro service - registration, music service, API
+monolithic django, laravel, mvc mvt
+
+json server - npm install -g json-server
+db.json - 
+HTTP - GET, POST, DELETE, PUT/PATCH
+postman
+fetch("<api url>").then("<response> => response.json()").then(data => data)
+events - submit
+object iteration, for...in, for(placeholder in <object_name>){}
+array iteration, for...of, forEach - <array_name/object>.forEach((<plcaeholder>)=>{})
+function <function_name> (<optional parameters>) {}
+let <variable> = () => {}
+.appendChild(<element>)
